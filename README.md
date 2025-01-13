@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @IanVicta
 - 👀 I’m interested in Backend Programming
 - 🌱 I’m currently learning C++ Programming
-- 💞️ I’m looking to collaborate on a Project I'm Currently doing any help will be appreciated as I'm willing to Learn , Re-learn and Un-learn... The Project is known as Expense Tracker Financial Management System so feel free to suggest Improvements or enancements or iform me wher I've Gone Wrong
+
+💞️ I’m looking to collaborate on a project I’m currently working on, and I’d greatly appreciate any help!  
+I’m eager to learn, re-learn, and un-learn throughout this journey.  
+The project is called **Expense Tracker Financial Management System**. Feel free to share suggestions for improvements, potential enhancements, or point out areas where I might have gone wrong. Your feedback will be invaluable to me as I strive to make this project better!
 - 📫 How to reach me:ianvicta1@gmail.com
 - ⚡ Fun fact:Fun fact: My faith fuels my tech journey, and I code best when vibing to UK rap and Christian trap—Central Cee and Hulvey are my go-to artists 
 
