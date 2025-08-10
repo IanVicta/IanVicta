@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IanVicta
+- 👋 Hi, I’m Ian Victor 
 - 👀 I’m interested in Backend Programming
 - 🌱 I’m currently learning Python
 
